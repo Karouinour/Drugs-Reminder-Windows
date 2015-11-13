@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="ffc57564-b69c-4434-b819-9c6addf2e55c" Publisher="CN=PC-ASUS" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>DrugsReminderStat.Windows</DisplayName>
+    <PublisherDisplayName>PC-ASUS</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="DrugsReminderStat.Windows.App">
+      <m2:VisualElements DisplayName="DrugsReminder" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="DrugsReminderStat.Windows" ForegroundText="light" BackgroundColor="#009688" ToastCapable="true">
+        <m2:DefaultTile Wide310x150Logo="Assets\wide 310 150\icon_558.png" Square70x70Logo="Assets\Square70\126.png" Square310x310Logo="Assets\Square310\558.png">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="transparent" />
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+        </m2:InitialRotationPreference>
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

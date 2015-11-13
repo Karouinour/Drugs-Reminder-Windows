@@ -1,0 +1,2 @@
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\DrugsReminderStat.WindowsPhone.csproj;arm
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\NotificationsExtensions.csproj;neutral

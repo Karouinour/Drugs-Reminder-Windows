@@ -1,0 +1,1 @@
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\DrugsReminderStat.WindowsPhone.csproj;x86

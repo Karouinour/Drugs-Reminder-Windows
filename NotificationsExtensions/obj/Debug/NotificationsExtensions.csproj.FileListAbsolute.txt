@@ -1,0 +1,105 @@
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\qualifiers.txt
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Desktop\Cours & projet\C#\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.XML
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.winmdobj
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\NotificationsExtensions.compile.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\obj\Debug\MultipleQualifiersPerDimensionFound.txt

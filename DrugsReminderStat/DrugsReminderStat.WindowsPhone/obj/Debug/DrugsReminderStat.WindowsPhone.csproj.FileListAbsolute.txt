@@ -1,0 +1,665 @@
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.i.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.cs
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xaml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\App.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug2.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListDrug.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser2.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Menu.xbf
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.xr.xml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.exe
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.pdb
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\resources.pri
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.build.appxrecipe
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.exe
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.pdb
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\pc-asus\documents\visual studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\App.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug2.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListDrug.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser2.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Menu.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.xr.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\resources.pri
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.build.appxrecipe
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.g.i.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.xaml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Menu.xbf
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Desktop\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\App.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\About.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\addAlarm.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugAlarm.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugDays.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugMouth.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugWeek.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUserPet.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\About.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Add_drug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\LiveTileAbout.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\option.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Precaution.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\PromoTile.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Users_list.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\User_Cur.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Description.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Itemdetail.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListDrug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListFavorie.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\MainPage.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\News.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Precaution.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.xr.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.exe
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\resources.pri
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AppxManifest.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.build.appxrecipe
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.winmd
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pri
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.csprojResolveAssemblyReference.cache
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugWeek.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugWeek.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.i.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugWeek.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xaml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugWeek.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xbf
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.exe
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.pdb
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\SIM\WP\DrugsReminderStat_15\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\App.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\About.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\addAlarm.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugAlarm.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugDays.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugMouth.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUserPet.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\About.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Add_drug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\LiveTileAbout.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\option.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Precaution.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\PromoTile.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Users_list.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\User_Cur.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Description.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Itemdetail.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListDrug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListFavorie.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\News.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Precaution.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.xr.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\resources.pri
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.build.appxrecipe
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.i.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\BliD\Documents\Visual Studio 2013\Projects\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\App.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\About.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\addAlarm.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrug2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugAlarm.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugDays.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugMouth.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddDrugProgramme2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUser2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AddUserPet.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\CustomSplashScreen.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\About.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Add_drug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\LiveTileAbout.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\option.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Precaution.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\PromoTile.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\Users_list.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Custom\User_Cur.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Description.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Itemdetail.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListDrug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListFavorie.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\ListUser2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\News.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\Precaution.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.xr.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\resources.pri
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\DrugsReminderStat.WindowsPhone.build.appxrecipe
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.winmd
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\bin\Debug\NotificationsExtensions.pri
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.i.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xaml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\App.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\About.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\addAlarm.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrug2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugAlarm.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugDays.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugMouth.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddDrugProgramme2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUser2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\AddUserPet.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\CustomSplashScreen.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\About.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Add_drug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\LiveTileAbout.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\option.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Precaution.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\PromoTile.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\Users_list.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Custom\User_Cur.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Description.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Itemdetail.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListDrug.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListFavorie.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ListUser2.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\News.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\Precaution.xbf
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.exe
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\DrugsReminderStat.WindowsPhone.pdb
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\obj\Debug\ProjectArchitectures.txt

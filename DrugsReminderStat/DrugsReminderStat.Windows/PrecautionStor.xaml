@@ -1,0 +1,193 @@
+﻿<Page
+    x:Class="DrugsReminderStat.PrecautionStor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugsReminderStat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Background="#FFDAD7D7">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.6*"/>
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#FF009688" >
+            <!--<Image Width="50"
+               
+        		Margin="500,10,5,0"
+               
+        		Source="Assets/adddrugs.png" />-->
+            <TextBlock x:Name="ApplicationTitle"
+        		VerticalAlignment="Center"
+        		FontSize="46"
+        		Style="{StaticResource HeaderTextBlockStyle}"
+        		Text="Drugs Reminder" Foreground="White" Width="350" FontWeight="Bold" HorizontalAlignment="Left"/>
+
+            <!--<Image Source="Assets/save2.png" Width="50" Margin="900,0"  HorizontalAlignment="Right" Height="50" VerticalAlignment="Center"  />-->
+
+        </StackPanel>
+
+        <Grid Background="#FFDAD7D7" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="3*"/>
+               
+            </Grid.ColumnDefinitions>
+
+
+            <Grid Background="#FFDAD7D7" Grid.Column="0" Margin="0,70,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+
+
+                <StackPanel Grid.Row="0" Orientation="Vertical" VerticalAlignment="Top">
+                    <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,40,0,3" Tapped="btnNews">
+                        <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                            <Image  Width="50" Height="50"  Source="Assets/news.png" Margin="40,0,0,0"/>
+                            <TextBlock  TextWrapping="Wrap" Text="News"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="adduser_Tapped">
+                        <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                            <Image  Width="50" Height="50"  Source="Assets/adduser.png" Margin="40,0,0,0"/>
+                            <TextBlock  TextWrapping="Wrap" Text="Add User"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="listuser_Tapped"  >
+                        <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                            <Image  Width="60" Height="60"  Source="Assets/listuser.png" Margin="40,0,0,0"/>
+                            <TextBlock  TextWrapping="Wrap" Text="Users"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="Precautionstor" >
+                        <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                            <Image  Width="50" Height="50"  Source="Assets/Precaution.png" Margin="40,0,0,0"/>
+                            <TextBlock  TextWrapping="Wrap" Text="Precautions"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="BtnAbouttapped"  >
+                        <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                            <Image  Width="50" Height="50"  Source="Assets/about.png" Margin="40,0,0,0"/>
+                            <TextBlock  TextWrapping="Wrap" Text="About"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Grid>
+           
+                <Grid x:Name="LayoutRoot" Background="#FFDAD7D7" Grid.Column="1">
+                    <Hub x:Name="Hub" x:Uid="Hub" Header="Always read the notice of your medicine" Foreground="#FF009688">
+                        <HubSection x:Uid="HubSection1" Header="Follow the instructions" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/1.png"></Image>
+                                        <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >A drug is intended to cure, relieve or prevent many specific diseases.Apart from this case,the medication can be dangerous and increases the risk of developing side effects. Never give a medication that was prescribed to someone else, even if you do have the symptoms.</TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+
+                        </HubSection>
+
+                    <HubSection x:Uid="HubSection2" Header="Beware of cons-indications" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250"  Source="Assets/2.png" ></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                               It is the case you should never take certain medications, for example if you are allergic to or if you are pregnant.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+                        </HubSection>
+
+                    <HubSection x:Uid="HubSection3" Header="Be very attentive to situations that change conditions of employment" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/3.png"></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Coexistence of another disease, malfunction of an organ, age… Taking one or more other drugs. Presence of certain excipients (different substances of the active substances of the medicament, for example lactose or sucrose, and presenting risks during certain diseases or in allergic subjects).</TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+                        </HubSection>
+
+                    <HubSection x:Uid="HubSection4" Header="Adjust your lifestyle" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/4.png"></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Attention to certain foods or drinks that can influence the activity of your medication.Your ability to drive or operate machinery, to breastfeed or to practice competitive sports can be changed by the drug. Some treatments may require precautions, such as following a contraceptive method.
+                                        </TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+
+                        </HubSection>
+
+                    <HubSection x:Uid="HubSection5" Header="Respect the medication treatment modalities" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/5.png"></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Dosage: the precise amount of drug that must be taken and at what pace. Do not under any circumstances modify the medication without telling your doctor or pharmacist. Treatment duration: In some cases, you should never interrupt it.Some drugs require administration conditions specific: specific times, taken with or between meals ...
+                                The administration device of your medicine (measuring spoon, dropper, syringe graduated ...) must not be used with other drugs. The notice also tells you what to do if you have taken more medicine that you should or, conversely, if you forget to take your medicine.
+
+                                        </TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+                        </HubSection>
+                    <HubSection x:Uid="HubSection6" Header="Adopt the right attitude if you notice any side effects" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/6.png"></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                                If you see an adverse reaction (the drug has been used at normal doses or in non-recommended conditions), contact your doctor or pharmacist; it will give you what to do.
+
+                                        </TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+                        </HubSection>
+                    <HubSection x:Uid="HubSection7" Header="Use extra caution if you are taking a medication without a prescription" Width="500">
+                            <DataTemplate>
+                                <ScrollViewer>
+                                    <StackPanel Orientation="Vertical">
+                                    <Image  Width="250" Height="250" Source="Assets/7.png"></Image>
+                                    <TextBlock Margin="0,25,0,0" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                                The drug has been prescribed to you or that you bought it from a pharmacy by your self, you must read all the rubric of the notice. In case of inefficiency, of appearance of an adverse effect or simply doubt, ask the advice of your doctor or pharmacist.
+
+                                        </TextBlock>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </DataTemplate>
+                        </HubSection>
+                    </Hub>
+                </Grid>
+            
+
+
+
+
+
+        </Grid>
+
+
+    </Grid>
+</Page>
+
+<!-- ________________________________________________________________________________________________________________________ -->
+
+    

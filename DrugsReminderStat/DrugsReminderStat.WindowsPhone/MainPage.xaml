@@ -1,0 +1,81 @@
+﻿<Page
+    x:Class="DrugsReminderStat.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:hr="using:DrugsReminderStat.Custom"
+     xmlns:local="using:DrugsReminderStat"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    FontSize="{StaticResource HubHeaderFontSize}"
+    mc:Ignorable="d">
+    <Page.Background>
+        <SolidColorBrush Color="{ThemeResource PhoneBackgroundColor}"/>
+    </Page.Background
+        
+        >
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF009688" >
+
+            <AppBarButton Name="About" Label="About" Click="about_Tapped"   >
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="Assets/about.png" Height="40" VerticalAlignment="Top" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+            
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#FFDAD7D7">
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"></RowDefinition>
+           
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            
+      
+        <TextBlock x:Name="ApplicationTitle"
+                   Margin="10,25"
+                   HorizontalAlignment="Right"
+                   FontSize="46"
+                   Style="{StaticResource HeaderTextBlockStyle}"
+                   Text="Drugs Reminder" Foreground="#FF009688" Width="341" FontWeight="Bold" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" VerticalAlignment="Top">
+            <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,40,0,3">
+                <StackPanel  Orientation="Horizontal" Background="#FF009688" Tapped="Newstapped">
+                    <Image  Width="50" Height="50"  Source="Assets/news.png" Margin="40,0,0,0"/>
+                    <TextBlock  TextWrapping="Wrap" Text="News"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                </StackPanel>
+            </Border>
+
+            <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="adduser_Tapped"  >
+                <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                    <Image  Width="50" Height="50"  Source="Assets/usercur.png" Margin="40,0,0,0"/>
+                    <TextBlock  TextWrapping="Wrap" Text="Add User"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                </StackPanel>
+            </Border>
+
+            <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3"  Tapped="listuser_Tapped">
+                <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                    <Image  Width="60" Height="60"  Source="Assets/listuser.png" Margin="40,0,0,0"/>
+                    <TextBlock  TextWrapping="Wrap" Text="Users"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                </StackPanel>
+            </Border>
+
+            <Border Width="300" Height="90" BorderThickness="2" BorderBrush="DarkTurquoise" Margin="0,3,0,3" Tapped="Precautapped">
+                <StackPanel  Orientation="Horizontal" Background="#FF009688">
+                    <Image  Width="50" Height="50"  Source="Assets/Precaution.png" Margin="40,0,0,0"/>
+                    <TextBlock  TextWrapping="Wrap" Text="Precautions"  FontSize="30"  Height="40" Margin="10,28,0,18.667" Foreground="White" Width="144"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>

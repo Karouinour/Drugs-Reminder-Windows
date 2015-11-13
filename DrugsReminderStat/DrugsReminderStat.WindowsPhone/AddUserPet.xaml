@@ -1,0 +1,77 @@
+﻿<Page
+    x:Class="DrugsReminderStat.AddUserPet"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugsReminderStat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF009688
+                    ">
+            <AppBarButton Icon="Cancel" Label="Save" HorizontalAlignment="Left" Click="Cancel"/>
+            <AppBarButton Icon="Save" Label="Cancel" Click="Save"/>
+
+        </CommandBar>
+    </Page.BottomAppBar>
+    
+    
+    <Grid Background="#FFDAD7D7" >
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="DrugsReminder" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="#FF009688"/>
+            <TextBlock Text="Add User" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" Foreground="#FF009688" FontWeight="Bold"/>
+        </StackPanel>
+        <ScrollViewer Grid.Row="1">
+            <StackPanel Orientation="Vertical"  >
+                <TextBlock Text="Pet" Margin="20,0,0,0" Style="{StaticResource BaseTextBlockStyle}">
+                    <TextBlock.Foreground>
+                        <SolidColorBrush Color="#FF000000"/>
+                    </TextBlock.Foreground>
+                </TextBlock>
+
+
+
+                <StackPanel Orientation="Horizontal" Background="#331E824C" Margin="0,7,0,0" >
+                    <Image Width="60" Source="Assets/dog_icon.png" Margin="40,10,0,10"/>
+                    <RadioButton  Content="Dog" x:Name="dog"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF232121" Margin="10,10,0,0"  GroupName="type" Background="#FFD1D1D1" BorderBrush="#FF009688"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Background="#331E824C" Margin="0,7,0,0" >
+                    <Image Width="60" Source="Assets/cat_icon.png" Margin="40,10,0,10"/>
+                    <RadioButton  Content="Cat" x:Name="cat"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF232121" Margin="10,10,0,0"  GroupName="type" Background="#FFD1D1D1" BorderBrush="#FF009688"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Background="#331E824C" Margin="0,7,0,0" >
+                    <Image Width="60" Source="Assets/bird_icon.png" Margin="40,10,0,10"/>
+                    <RadioButton  Content="Bird" x:Name="bird"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF232121" Margin="10,10,0,0"  GroupName="type" Background="#FFD1D1D1" BorderBrush="#FF009688"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Background="#331E824C" Margin="0,7,0,0" >
+                    <Image Width="60" Source="Assets/horse_icon.png" Margin="40,10,0,10"/>
+                    <RadioButton  Content="Horse" x:Name="horse"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF232121" Margin="10,10,0,0"  GroupName="type" Background="#FFD1D1D1" BorderBrush="#FF009688"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Background="#331E824C" Margin="0,7,0,0" >
+                    <Image Width="60" Source="Assets/rabbit_icon.png" Margin="40,10,0,10"/>
+                    <RadioButton  Content="Rabbit" x:Name="rabbit"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF232121" Margin="10,10,0,0"  GroupName="type" Background="#FFD1D1D1" BorderBrush="#FF009688"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
+

@@ -1,0 +1,2 @@
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\DrugsReminderStat\DrugsReminderStat.WindowsPhone\DrugsReminderStat.WindowsPhone.csproj;neutral
+C:\Users\BliD\Downloads\Drugs Reminder\Drugs Reminder\DrugsReminderStat\NotificationsExtensions\NotificationsExtensions.csproj;neutral

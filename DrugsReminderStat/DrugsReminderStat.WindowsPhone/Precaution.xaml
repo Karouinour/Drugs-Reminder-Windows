@@ -1,0 +1,156 @@
+﻿<Page
+    x:Class="DrugsReminderStat.Precaution"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DrugsReminderStat"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    
+    <Page.Resources>
+        <DataTemplate x:Key="HubSectionHeaderTemplate">
+            <TextBlock Margin="0,0,0,-9.5" Text="{Binding}"/>
+        </DataTemplate>
+
+        <!-- Grid-appropriate item template as seen in section 2 -->
+        <DataTemplate x:Key="Standard200x180TileItemTemplate">
+            <Grid Margin="0,0,9.5,9.5" Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}">
+                <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="138.5" Width="138.5"/>
+                <TextBlock Text="{Binding Title}" VerticalAlignment="Bottom" Margin="9.5,0,0,6.5" Style="{ThemeResource BaseTextBlockStyle}"/>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate x:Key="StandardTripleLineItemTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                    <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                </Border>
+                <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                    <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                    <TextBlock Text="{Binding Description}" Style="{ThemeResource ListViewItemContentTextBlockStyle}" Foreground="{ThemeResource PhoneMidBrush}" />
+                    <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}" />
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate x:Key="StandardDoubleLineItemTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}" Margin="0,9.5,0,0" Grid.Column="0" HorizontalAlignment="Left">
+                    <Image Source="{Binding ImagePath}" Stretch="UniformToFill" AutomationProperties.Name="{Binding Title}" Height="79" Width="79"/>
+                </Border>
+                <StackPanel Grid.Column="1" Margin="14.5,0,0,0">
+                    <TextBlock Text="{Binding Title}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                    <TextBlock Text="{Binding Subtitle}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}"/>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid x:Name="LayoutRoot" Background="#FFDAD7D7">
+        <Hub x:Name="Hub" x:Uid="Hub" Header="Always read the notice of your medicine" Foreground="#FF009688">
+            <HubSection x:Uid="HubSection1" Header="Follow the instructions" >
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/1.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >A drug is intended to cure, relieve or prevent many specific diseases.Apart from this case,the medication can be dangerous and increases the risk of developing side effects. Never give a medication that was prescribed to someone else, even if you do have the symptoms.</TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+
+            </HubSection>
+
+            <HubSection x:Uid="HubSection2" Header="Beware of cons-indications" >
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/2.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                               It is the case you should never take certain medications, for example if you are allergic to or if you are pregnant.
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+
+            <HubSection x:Uid="HubSection3" Header="Be very attentive to situations that change conditions of employment">
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/3.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Coexistence of another disease, malfunction of an organ, age… Taking one or more other drugs. Presence of certain excipients (different substances of the active substances of the medicament, for example lactose or sucrose, and presenting risks during certain diseases or in allergic subjects).                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+
+            <HubSection x:Uid="HubSection4" Header="Adjust your lifestyle">
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/4.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Attention to certain foods or drinks that can influence the activity of your medication.Your ability to drive or operate machinery, to breastfeed or to practice competitive sports can be changed by the drug. Some treatments may require precautions, such as following a contraceptive method.                        
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+
+            </HubSection>
+
+            <HubSection x:Uid="HubSection5" Header="Respect the medication treatment modalities">
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/5.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+Dosage: the precise amount of drug that must be taken and at what pace. Do not under any circumstances modify the medication without telling your doctor or pharmacist. Treatment duration: In some cases, you should never interrupt it.Some drugs require administration conditions specific: specific times, taken with or between meals ...
+                                The administration device of your medicine (measuring spoon, dropper, syringe graduated ...) must not be used with other drugs. The notice also tells you what to do if you have taken more medicine that you should or, conversely, if you forget to take your medicine.
+
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+            <HubSection x:Uid="HubSection6" Header="Adopt the right attitude if you notice any side effects">
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/6.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                                If you see an adverse reaction (the drug has been used at normal doses or in non-recommended conditions), contact your doctor or pharmacist; it will give you what to do.
+
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+            <HubSection x:Uid="HubSection7" Header="Use extra caution if you are taking a medication without a prescription">
+                <DataTemplate>
+                    <ScrollViewer>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="Assets/7.png"></Image>
+                            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="18" Foreground="#FF171919" >
+                                The drug has been prescribed to you or that you bought it from a pharmacy by your self, you must read all the rubric of the notice. In case of inefficiency, of appearance of an adverse effect or simply doubt, ask the advice of your doctor or pharmacist.
+
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>b5f7d830-b2e1-4302-a758-723e527c0c5c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>DrugsReminderStat</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)alarm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AlarmModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drug.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorageHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ItemsRSS.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SharedInformattion.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
+  </ItemGroup>
+</Project>
